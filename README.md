@@ -1,2 +1,2 @@
 # php_tree_view
-Tree view structure developed using code PHP to showcase node relations
+Tree view structure developed using core PHP to showcase node relations
